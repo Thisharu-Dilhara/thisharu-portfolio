@@ -56,23 +56,23 @@ export const portfolioData = {
       liveDemo: "#",
       github: "#"
     },
-    {
-      id: 2,
-      title: "Online Cosmetic Shop",
-      type: "Role-Based E-Commerce System",
-      status: "Ongoing",
-      description: "A full-stack e-commerce application with Admin and Customer dashboards. The system supports product searching, filtering, cart management, checkout flow, REST APIs, JWT authentication, and role-based access.",
-      features: [
-        "Admin and Customer dashboards",
-        "Product search and filtering",
-        "Cart and checkout features",
-        "REST APIs with Express.js and MongoDB",
-        "JWT authentication and role-based access control"
-      ],
-      techStack: ["React.js", "Node.js", "Express.js", "MongoDB", "JWT", "Tailwind CSS", "Git"],
-      liveDemo: "#",
-      github: "#"
-    }
+    // {
+    //   id: 2,
+    //   title: "Online Cosmetic Shop",
+    //   type: "Role-Based E-Commerce System",
+    //   status: "Ongoing",
+    //   description: "A full-stack e-commerce application with Admin and Customer dashboards. The system supports product searching, filtering, cart management, checkout flow, REST APIs, JWT authentication, and role-based access.",
+    //   features: [
+    //     "Admin and Customer dashboards",
+    //     "Product search and filtering",
+    //     "Cart and checkout features",
+    //     "REST APIs with Express.js and MongoDB",
+    //     "JWT authentication and role-based access control"
+    //   ],
+    //   techStack: ["React.js", "Node.js", "Express.js", "MongoDB", "JWT", "Tailwind CSS", "Git"],
+    //   liveDemo: "#",
+    //   github: "#"
+    // }
   ],
   certificates: [
     {
